@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hello": {
+      "command": "C:\\software\\Java\\amazon\\jdk25.0.2_10\\bin\\java.exe",
+      "args": ["C:\\software\\workspaceKiro\\kiro-java-power-MCP-example\\hello-java-power\\HelloServer.java"]
+    }
+  }
+}
